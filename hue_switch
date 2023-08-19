@@ -2,7 +2,7 @@ blueprint:
   name: Hue Dimmer Remote
   description: Blueprint for Hue Dimmer Switch
   domain: automation
-  source_url: https://gist.github.com/codycodes/f051781c35cfdfee15162ff680c9cbd8
+  source_url: https://raw.githubusercontent.com/Andre-Schuiki/ha_blueprints/main/hue_switch
   input:
     dimmer_device:
       name: Dimmer Remote Device
